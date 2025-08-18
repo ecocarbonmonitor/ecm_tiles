@@ -1,6 +1,6 @@
 <mapml>
     <head>
-        <title>temp_color_Oct.vrt</title>
+        <title>temp_color_Oct.tif</title>
         <base href="./" />
         <meta charset="utf-8" />
         <meta content="text/mapml;projection=OSMTILE" http-equiv="Content-Type" />
