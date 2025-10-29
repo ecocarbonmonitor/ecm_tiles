@@ -15,7 +15,7 @@
 #  ano_91-20: Daily anomaly relative to the 1991-2020 daily climatology
 #  status: Preliminary or final
 # Units: deg. C
-# Last updated: 28 Oct 2025
+# Last updated: 29 Oct 2025
 date,2t,clim_91-20,ano_91-20,status
 1940-01-01,11.72,12.48,-0.76,FINAL
 1940-01-02,11.66,12.47,-0.81,FINAL
@@ -31362,4 +31362,5 @@ date,2t,clim_91-20,ano_91-20,status
 2025-10-23,15.02,14.18,0.84,FINAL
 2025-10-24,15.04,14.14,0.89,FINAL
 2025-10-25,15.04,14.11,0.93,FINAL
-2025-10-26,14.99,14.07,0.92,PRELIMINARY
+2025-10-26,14.99,14.07,0.92,FINAL
+2025-10-27,14.83,14.03,0.80,PRELIMINARY
