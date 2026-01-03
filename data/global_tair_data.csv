@@ -1,5 +1,5 @@
 # Description: This file contains daily global mean near-surface (2m) air temperature
-#  data from ERA5 from 1940 to 2025 as well as daily temperature anomalies relative to
+#  data from ERA5 from 1940 to 2026 as well as daily temperature anomalies relative to
 #  the 1991-2020 reference period.
 # Data source: The original ERA5 gridded hourly data used to generate the time series can be
 #  downloaded from the C3S Climate Data Store (CDS) at the following link:
@@ -15,7 +15,7 @@
 #  ano_91-20: Daily anomaly relative to the 1991-2020 daily climatology
 #  status: Preliminary or final
 # Units: deg. C
-# Last updated: 02 Jan 2026
+# Last updated: 03 Jan 2026
 date,2t,clim_91-20,ano_91-20,status
 1940-01-01,11.72,12.48,-0.76,FINAL
 1940-01-02,11.66,12.47,-0.81,FINAL
@@ -31428,4 +31428,5 @@ date,2t,clim_91-20,ano_91-20,status
 2025-12-28,13.13,12.51,0.62,FINAL
 2025-12-29,13.14,12.51,0.63,FINAL
 2025-12-30,13.11,12.50,0.62,FINAL
-2025-12-31,13.04,12.49,0.56,PRELIMINARY
+2025-12-31,13.05,12.49,0.56,FINAL
+2026-01-01,13.07,12.48,0.59,PRELIMINARY
